@@ -1,3 +1,3 @@
-# The Odin Project: MDN Loop Exercise
+# The Odin Project: Launch Countdown
 
 
