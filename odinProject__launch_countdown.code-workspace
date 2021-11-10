@@ -15,7 +15,8 @@
       "javascriptreact",
       "typescript",
       "typescriptreact"
-    ]
+    ],
+    "liveServer.settings.port": 5501
   },
   "launch": {
     "version": "0.2.0",
